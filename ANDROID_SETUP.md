@@ -1,6 +1,6 @@
 ## Android Installation
 
-In order for this plugin to work properly on Android, you will need to make a custom `Application`.  
+In order for this plugin to work properly on Android, you will need to make a custom `Application` (kotlin file, not java).  
 
 ```kotlin
 package replace.me.with.your.package.name
